@@ -1,5 +1,4 @@
-## Java-Ex-06
-### Define a method to calculate power of a number raised to other i.e. ab using recursion where the numbers 'a' and 'b' are to be entered by the user
+##Ex-04 Implement a java program to create a method to calculate power of a number raised to other
 ## Aim:-
 ### To write a Java program to create a method to calculate power of a number raised to other.
 
